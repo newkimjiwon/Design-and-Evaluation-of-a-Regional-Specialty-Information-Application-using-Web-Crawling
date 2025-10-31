@@ -1,4 +1,4 @@
-# Regional_Specialty_Information_Application_using_Web_Crawling
+# Design and Evaluation of a Regional Specialty Information Application using Web Crawling
 
 ● 개발 기간 : 2024.06 ~ 2024.08 <br/>
 ● 참여 인원 : 2 <br/>
